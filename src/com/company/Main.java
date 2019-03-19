@@ -77,7 +77,7 @@ public class Main {
                // litters[i]= curentChar;
 
             }
-
+//hello world
         }
         int [] a = new int [6];
         a[0]=a.length;
